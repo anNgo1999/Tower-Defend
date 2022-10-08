@@ -1,0 +1,4 @@
+Attack=null
+Rof=null
+Cost=null
+Special=null
